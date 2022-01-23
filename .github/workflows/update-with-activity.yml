@@ -1,6 +1,7 @@
 name: Update with activity
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '*/1 * * * *'
 
