@@ -14,3 +14,5 @@ jobs:
       - uses: g0621/github-activity@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          MAX_LINES: 10
