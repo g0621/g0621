@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **AWS in depth**
 
-- 👯 I’m looking for collaborator on **[same blog app](https://github.com/g0621/remd)**
+- 👯 In 2022, I will be increase contributing 🚚🚚🚚
   
 - 📄 Know about my experiences **[on this page](https://g0621.github.io/resume/)**
 
@@ -26,7 +26,7 @@
 
 - 💬 Ask me for anything, I will be happy to help
 
-- 📫 How to reach me **gyan.work1997@gmail.com**
+- 📫 How to reach me **<a href="#contact-details">from this section</a>**
 
 - ⚡ Fun fact **Love making memes 😉**
 
@@ -93,10 +93,13 @@
 
 ### 📞 Connect with me
 
-<div>
+<div id="contact-details">
 <details>
   <summary> 🕸️ social links</summary>
   
+<a href="mailto:gyan.work1997@gmail.com" target="blank"><img align="center"
+        src="https://img.shields.io/badge/-Gmail-000?&logo=gmail"
+        alt="gyanvardhan" /></a>
 <a href="https://linkedin.com/in/gyanvardhan" target="blank"><img align="center"
         src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin"
         alt="gyanvardhan" /></a>
