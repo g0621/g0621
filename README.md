@@ -34,6 +34,11 @@
 
 ### 🏃 Recent Github Activities
 <!--START_SECTION:activity-->
+1. 🚚 Pushed 1 commits in [g0621/g0621](https://github.com/g0621/g0621)
+2. 🚚 Pushed 1 commits in [g0621/banner_vue](https://github.com/g0621/banner_vue)
+3. 🎋 Created new Branch master in repository [g0621/banner_vue](https://github.com/g0621/banner_vue)
+4. 👨‍💻 Created new Repository [g0621/banner_vue](https://github.com/g0621/banner_vue)
+5. 🚚 Pushed 1 commits in [g0621/github-activity](https://github.com/g0621/github-activity)
 <!--END_SECTION:activity-->
 </div>
 </div>
