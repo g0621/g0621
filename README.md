@@ -109,6 +109,11 @@
     </a>
 </details>
 
+<br>
+
+### 🌎 Overview
+<hr>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2046%20mins-blue)
 
@@ -175,15 +180,21 @@ Python                   2 repos             ██░░░░░░░░░�
  Last Updated on 25/01/2022 15:54:27 UTC
 <!--END_SECTION:waka-->
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@gyan0621&compact=True"/>
-</a>
-<br>
+
+<hr>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
-<h3 align="left">Support:</h3>
+<hr>
+
+<h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+
+<hr>
+<h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gyanvardhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gyanvardhan" /></a></p><br><br>
