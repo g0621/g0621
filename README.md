@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/g0621/banner_vue/master/image/banner_gif.gif)
 <p align="left">
   <img src="https://img.shields.io/github/followers/g0621?label=Follow%20Me&logo=github" alt="GitHub Followers" />
-  <img src="https://gpvc.arturio.dev/g0621" alt="Profile Viewer" />
+  <img src="https://enxof0gahz6ct5i.m.pipedream.net" alt="Profile Viewer" />
   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Profile Visitor"/>
   <a href="https://g0621.github.io/resume/" target="_blank">  
     <img src="https://img.shields.io/badge/Gyan's Website-Click-green.svg" />
@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **AWS in depth**
 
-- 👯 In 2022, I will be increase contributing 🚚🚚🚚
+- 👯 In 2022, I will be increasing contribution 🚚🚚🚚
   
 - 📄 Know about my experiences **[on this page](https://g0621.github.io/resume/)**
 
