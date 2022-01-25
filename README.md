@@ -90,8 +90,6 @@
   </deatils>
   </div>
 </div>
-<br>
-
 
 ### 📞 Connect with me
 
@@ -128,7 +126,6 @@
         src="https://img.shields.io/badge/Portfolio-click-black.svg" /></a>
 </details>
 </div>
-<br>
 
 ### ⚡ Github Features
 
@@ -166,13 +163,13 @@
 ##### 👩‍💻 View featured projects
 <div align="center">
   <a href="https://github.com/g0621/remd">
-    <img width="33%" alt="Project 01" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=remd&theme=dark" />
+    <img width="33%" alt="Project 01" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=remd&theme=dark" />
   </a>
   <a href="https://github.com/g0621/Advanced-Portfolio">
-    <img width="33%" alt="Project 02" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=Advanced-Portfolio&theme=dark" />
+    <img width="33%" alt="Project 02" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=Advanced-Portfolio&theme=dark" />
   </a>
   <a href="https://github.com/g0621/Android-Projects">
-    <img width="33%" alt="Project 02" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=Android-Projects&theme=dark" />
+    <img width="33%" alt="Project 02" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=Android-Projects&theme=dark" />
   </a>
 </div>
 <details>
