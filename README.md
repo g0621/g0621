@@ -58,16 +58,10 @@
 </div>
 
 
-<div width="100%">
-    <a>
-        <img height=160 width="33%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=g0621&theme=dark" alt="g0621"/>
-    </a>
-    <a>
-        <img height=160 width="33%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=g0621&show_icons=true&theme=dark&locale=en&layout=compact" alt="g0621" />
-    </a>
-    <a>
-        <img height=160 width="33%" align="center" src="https://github-readme-stats.vercel.app/api?username=g0621&show_icons=true&theme=dark&locale=en" alt="g0621" />
-    </a>
+<div width="80%">
+    <img height=160 width="33%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g0621&theme=dark" alt="g0621"/>
+    <img height=160 width="33%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=g0621&show_icons=true&theme=dark&locale=en&layout=compact" alt="g0621"/>
+    <img height=160 width="33%" align="center" src="https://github-readme-stats.vercel.app/api?username=g0621&show_icons=true&theme=dark&locale=en" alt="g0621" />
 </div>
 
 <details>
