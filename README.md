@@ -162,14 +162,14 @@
 ### 🔧 Featured Projects
 ##### 👩‍💻 View featured projects
 <div align="center">
-  <a href="https://github.com/g0621/remd">
-    <img width="33%" alt="Project 01" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=remd&theme=dark" />
-  </a>
   <a href="https://github.com/g0621/Advanced-Portfolio">
-    <img width="33%" alt="Project 02" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=Advanced-Portfolio&theme=dark" />
+    <img width="33%" alt="aplo" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=Advanced-Portfolio&theme=dark" />
+  </a>
+  <a href="https://github.com/g0621/remd">
+    <img width="33%" alt="remd" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=remd&theme=dark" />
   </a>
   <a href="https://github.com/g0621/Android-Projects">
-    <img width="33%" alt="Project 02" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=Android-Projects&theme=dark" />
+    <img width="33%" alt="aproj" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=Android-Projects&theme=dark" />
   </a>
 </div>
 <details>
