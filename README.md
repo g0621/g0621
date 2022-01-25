@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/github/followers/g0621?label=Follow%20Me&logo=github" alt="GitHub Followers" />
   <img src="https://gpvc.arturio.dev/g0621" alt="Profile Viewer" />
   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Profile Visitor"/>
-  <a href="https://dc-personal-portfolio.herokuapp.com/" target="_blank">  
+  <a href="https://g0621.github.io/resume/" target="_blank">  
     <img src="https://img.shields.io/badge/Gyan's Website-Click-green.svg" />
   </a>
 </p>
@@ -43,9 +43,94 @@
 </div>
 </div>
 
+### 👷‍♂️ I build things using
+<div>
+  <div>
+  <details>
+  <summary>📔 Languages </summary>
+
+  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+  ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+  ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C)
+  ![C](https://img.shields.io/badge/-C-000?&logo=c%2b%2b&logoColor=00599C)
+  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+  ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
+
+  </deatils>
+  </div>
+  <div>
+  <details>
+  <summary>📔 Frameworks </summary>
+
+  ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+  ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+  ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
+  ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?&logo=apachekafka)
+  ![React](https://img.shields.io/badge/-React-000?&logo=React)
+  ![NextJS](https://img.shields.io/badge/-Nextjs-000?&logo=nextdotjs)
+  ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+  ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot)
+  ![Spring Security](https://img.shields.io/badge/-Spring%20Security-000?&logo=springsecurity)
+  ![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=red)
+  ![Jekyll](https://img.shields.io/badge/-Jekyll-000?&logo=jekyll)
+  ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=cypress)
+  ![Postgres](https://img.shields.io/badge/-Postgres-000?&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+  ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)
+  ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)
+
+  </deatils>
+  </div>
+</div>
+<br>
+
+
+### 📞 Connect with me
+
+<div>
+<details>
+  <summary> 🕸️ social links</summary>
+  
+<a href="https://linkedin.com/in/gyanvardhan" target="blank"><img align="center"
+        src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin"
+        alt="gyanvardhan" /></a>
+<a href="https://www.hackerrank.com/gyansingh1997" target="blank"><img align="center"
+        src="https://img.shields.io/badge/-HackerRank-000?&logo=Hackerrank"
+        alt="gyansingh1997" /></a>
+<a href="https://www.leetcode.com/gyansingh1997" target="blank"><img align="center"
+        src="https://img.shields.io/badge/-Leetcode-000?&logo=leetcode"
+        alt="gyansingh1997" /></a>
+<a href="https://www.codechef.com/users/sda" target="blank"><img align="center"
+        src="https://img.shields.io/badge/-Codechef-000?&logo=codechef" alt="sda"  /></a>
+<a href="https://www.hackerearth.com/@gyansingh1997" target="blank"><img align="center"
+        src="https://img.shields.io/badge/-Hackerearth-000?&logo=Hackerearth"
+        alt="@gyansingh1997"/></a>
+<a href="https://auth.geeksforgeeks.org/user/as" target="blank"><img align="center"
+        src="https://img.shields.io/badge/-GeeksforGeeks-000?&logo=GeeksforGeeks"
+        alt="as" /></a>
+<a href="https://fb.com/asda" target="blank"><img align="center"
+        src="https://img.shields.io/badge/-Facebook-000?&logo=facebook"
+        alt="asda"  /></a>
+<a href="https://instagram.com/jst_gyan" target="blank"><img align="center"
+        src="https://img.shields.io/badge/-instagram-000?&logo=instagram"
+        alt="jst_gyan"  /></a>
+<a href="https://g0621.github.io/resume/" target="_blank"><img align="center"
+        src="https://img.shields.io/badge/ResumeSite-click-black.svg" /></a>
+<a href="https://gyan-vardhan.herokuapp.com/" target="_blank"><img align="center"
+        src="https://img.shields.io/badge/Portfolio-click-black.svg" /></a>
+</details>
+</div>
+<br>
+
 ### ⚡ Github Features
-
-
 
 #### 📊 Github Stats
 <br>
@@ -58,7 +143,7 @@
 </div>
 
 
-<div width="80%">
+<div width="90%">
     <img height=160 width="33%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g0621&theme=dark" alt="g0621"/>
     <img height=160 width="33%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=g0621&show_icons=true&theme=dark&locale=en&layout=compact" alt="g0621"/>
     <img height=160 width="33%" align="center" src="https://github-readme-stats.vercel.app/api?username=g0621&show_icons=true&theme=dark&locale=en" alt="g0621" />
@@ -78,35 +163,37 @@
 <br>
 
 ### 🔧 Featured Projects
-##### 👩‍💻 View Feature Project at My Github
+##### 👩‍💻 View featured projects
 <div align="center">
-  <a href="https://github.com/bdfd/Project01_Resume_Blog_Template">
-    <img alt="Project 01" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Data_Science_Cheat_Sheet&theme=dark" />
+  <a href="https://github.com/g0621/remd">
+    <img width="33%" alt="Project 01" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=remd&theme=dark" />
   </a>
-  <a href="https://github.com/bdfd/Project02_Leetcode_SQL_All_Solution">
-    <img alt="Project 02" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Awesome_SQL_Question_Collector&theme=dark" />
+  <a href="https://github.com/g0621/Advanced-Portfolio">
+    <img width="33%" alt="Project 02" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=Advanced-Portfolio&theme=dark" />
+  </a>
+  <a href="https://github.com/g0621/Android-Projects">
+    <img width="33%" alt="Project 02" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=Android-Projects&theme=dark" />
   </a>
 </div>
 <details>
-  <summary>View Feature Github Project</summary>
-    <a href="https://github.com/bdfd/4.2_Jupyter-Notbook-Collection-File">
-      <img alt="Repo 4.2" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Awesome-Icon-Collector&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
-    </a>
-    <a href="https://github.com/bdfd/4.2_Jupyter-Notbook-Collection-File">
-      <img alt="Repo 4.2" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Jupyter_Notebook_PlayGround&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
-    </a>
-    <a href="https://github.com/bdfd/4.3_Data_Science_Cheat_Sheet">
-      <img alt="Repo 4.3" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Resume_Blog_Template-Project01-&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
-    </a>
-    <a href="https://github.com/bdfd/4.5_Python-Zero2Hero-DS">
-      <img alt="Repo 4.5" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=4.5_Python-Zero2Hero-DS&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
-    </a>
-    <a href="https://github.com/bdfd/3.9_Coursera_IBM-Data-Analyst-Professional-Certificate">
-      <img alt="Repo 3.9" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=3.9_Coursera_IBM-Data-Analyst-Professional-Certificate&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
-    </a>
-    <a href="https://github.com/bdfd/3.10_Coursera_Google-Data-Analytics-Professional-Certificate">
-      <img alt="Repo 3.10" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=3.10_Coursera_Google-Data-Analytics-Professional-Certificate&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
-    </a>
+  <summary>view more featured projects</summary>
+  <a href="https://github.com/g0621/Android-Projects/tree/master/Echo_Music_Player" target="_blank"><img align="center"
+        src="https://img.shields.io/badge/Echo_Music_Player-Android-black.svg" /></a>
+<a href="https://github.com/g0621/Android-Projects/tree/master/InTouch" target="_blank"><img align="center"
+        src="https://img.shields.io/badge/Intouch-Android-black.svg" /></a>
+        <br>
+        <br>
+    <a href="https://github.com/g0621/ProductSuggestion">
+            <img width="33%" alt="ProductSuggestion" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=ProductSuggestion&theme=dark" />
+        </a>
+<a href="https://github.com/g0621/FakeNews">
+            <img width="33%" alt="FakeNews" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=FakeNews&theme=dark" />
+        </a>
+<a href="https://github.com/g0621/machine_learning">
+            <img width="33%" alt="machine_learning" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=machine_learning&theme=dark" />
+        </a>
+
+
 </details>
 
 <br>
@@ -184,9 +271,9 @@ Python                   2 repos             ██░░░░░░░░░�
 <hr>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
+<div align="center">
+<img  align="center" src="https://readme-jokes.vercel.app/api?theme=dark"/>
+</div>
 <hr>
 
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
@@ -198,4 +285,4 @@ Python                   2 repos             ██░░░░░░░░░�
 
 <hr>
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/gyanvardhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gyanvardhan" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/gyanvardhan"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gyanvardhan" /></a></p><br><br>
