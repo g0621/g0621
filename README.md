@@ -143,10 +143,10 @@
 </div>
 
 
-<div width="90%">
-    <img height=160 width="33%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g0621&theme=dark" alt="g0621"/>
-    <img height=160 width="33%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=g0621&show_icons=true&theme=dark&locale=en&layout=compact" alt="g0621"/>
-    <img height=160 width="33%" align="center" src="https://github-readme-stats.vercel.app/api?username=g0621&show_icons=true&theme=dark&locale=en" alt="g0621" />
+<div align="center">
+    <img  width="250vw" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g0621&theme=dark" alt="g0621"/>
+    <img  width="250vw" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=g0621&show_icons=true&theme=dark&locale=en&layout=compact" alt="g0621"/>
+    <img  width="250vw" align="center" src="https://github-readme-stats.vercel.app/api?username=g0621&show_icons=true&theme=dark&locale=en" alt="g0621" />
 </div>
 
 <details>
@@ -166,13 +166,13 @@
 ##### 👩‍💻 View featured projects
 <div align="center">
   <a href="https://github.com/g0621/Advanced-Portfolio">
-    <img width="33%" alt="aplo" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=Advanced-Portfolio&theme=dark" />
+    <img width="250vw" alt="aplo" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=Advanced-Portfolio&theme=dark" />
   </a>
   <a href="https://github.com/g0621/remd">
-    <img width="33%" alt="remd" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=remd&theme=dark" />
+    <img width="250vw" alt="remd" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=remd&theme=dark" />
   </a>
   <a href="https://github.com/g0621/Android-Projects">
-    <img width="33%" alt="aproj" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=Android-Projects&theme=dark" />
+    <img width="250vw" alt="aproj" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=g0621&repo=Android-Projects&theme=dark" />
   </a>
 </div>
 <details>
