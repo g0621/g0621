@@ -34,11 +34,18 @@
 
 ### 🏃 Recent Github Activities
 <!--START_SECTION:activity-->
-1. 🚚 Pushed 1 commits in [g0621/g0621](https://github.com/g0621/g0621)
-2. 🚚 Pushed 1 commits in [g0621/g0621](https://github.com/g0621/g0621)
-3. 🚚 Pushed 1 commits in [g0621/g0621](https://github.com/g0621/g0621)
-4. 🚚 Pushed 1 commits in [g0621/g0621](https://github.com/g0621/g0621)
-5. 🚚 Pushed 1 commits in [g0621/g0621](https://github.com/g0621/g0621)
+`[01/26 10:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/github-activity](https://github.comg0621/github-activity)  
+`[01/26 07:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [g0621/g0621](https://github.comg0621/g0621)  
+`[01/25 17:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/github-activity](https://github.comg0621/github-activity)  
+`[01/25 17:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/g0621](https://github.comg0621/g0621)  
+`[01/25 16:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/github-activity](https://github.comg0621/github-activity)  
+`[01/25 15:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [g0621/g0621](https://github.comg0621/g0621)  
+`[01/24 15:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/banner_vue](https://github.comg0621/banner_vue)  
+`[01/24 15:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.comg0621/banner_vue/tree/master) in [g0621/banner_vue](https://github.comg0621/banner_vue)  
+`[01/24 15:41]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [g0621/banner_vue](https://github.comg0621/banner_vue)  
+`[01/23 20:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/github-activity](https://github.comg0621/github-activity)  
+
+</details>
 <!--END_SECTION:activity-->
 </div>
 </div>
