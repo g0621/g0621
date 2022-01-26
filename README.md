@@ -296,6 +296,10 @@ Python                   2 repos             ██░░░░░░░░░�
 <p align="center"><a href="https://www.buymeacoffee.com/gyanvardhan"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gyanvardhan" /></a></p><br><br>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
+<h2>Commit History</h2>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/g0621/g0621/snake_out/snake.svg" alt="Github Stats" />
+</p>
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
