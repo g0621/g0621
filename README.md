@@ -294,3 +294,8 @@ Python                   2 repos             ██░░░░░░░░░�
 <hr>
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/gyanvardhan"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gyanvardhan" /></a></p><br><br>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
