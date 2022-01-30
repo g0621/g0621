@@ -34,7 +34,7 @@
 
 ### 🏃 Recent Github Activities
 <!--START_SECTION:activity-->
-`[01/29 00:59]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/g0621](https://github.com/g0621/g0621)  
+`[01/30 01:04]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [g0621/g0621](https://github.com/g0621/g0621)  
 `[01/26 17:39]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/remd](https://github.com/g0621/remd)  
 `[01/26 15:31]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/g0621](https://github.com/g0621/g0621)  
 `[01/26 15:25]` <img alt="📂" src="https://github.com/g0621/github-activity/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snake_out`](https://github.com/g0621/g0621/tree/snake_out) in [g0621/g0621](https://github.com/g0621/g0621)  
