@@ -34,19 +34,19 @@
 
 ### 🏃 Recent Github Activities
 <!--START_SECTION:activity-->
-`[02/01 01:09]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [g0621/g0621](https://github.com/g0621/g0621)  
-`[01/31 07:15]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [g0621/resume](https://github.com/g0621/resume)  
-`[01/31 01:02]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/g0621](https://github.com/g0621/g0621)  
-`[01/30 18:08]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [g0621/resume](https://github.com/g0621/resume)  
-`[01/30 01:04]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [g0621/g0621](https://github.com/g0621/g0621)  
+`[02/02 16:36]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [g0621/resume](https://github.com/g0621/resume)  
+`[02/02 10:04]` <img alt="⭐" src="https://github.com/g0621/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [g0621/Advanced-Portfolio](https://github.com/g0621/Advanced-Portfolio)  
+`[02/02 05:08]` <img alt="⭐" src="https://github.com/g0621/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [g0621/resume](https://github.com/g0621/resume)  
+`[02/02 05:08]` <img alt="⭐" src="https://github.com/g0621/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [g0621/g0621](https://github.com/g0621/g0621)  
+`[02/02 05:08]` <img alt="⭐" src="https://github.com/g0621/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [g0621/github-activity](https://github.com/g0621/github-activity)  
 
 <details><summary>Show More</summary>
 
-`[01/26 17:39]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/remd](https://github.com/g0621/remd)  
-`[01/26 15:31]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/g0621](https://github.com/g0621/g0621)  
-`[01/26 15:25]` <img alt="📂" src="https://github.com/g0621/github-activity/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snake_out`](https://github.com/g0621/g0621/tree/snake_out) in [g0621/g0621](https://github.com/g0621/g0621)  
-`[01/26 15:07]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/g0621](https://github.com/g0621/g0621)  
-`[01/26 15:05]` <img alt="❌" src="https://github.com/g0621/github-activity/raw/master/icons/delete.png" align="top" height="18"> Deleted `master` from [g0621/g0621](https://github.com/g0621/g0621)  
+`[02/02 04:59]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [g0621/resume](https://github.com/g0621/resume)  
+`[02/02 04:59]` <img alt="🎉" src="https://github.com/g0621/github-activity/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//g0621/resume/pull/1 'Merge final to master') in [g0621/resume](https://github.com/g0621/resume)  
+`[02/02 04:58]` <img alt="✅" src="https://github.com/g0621/github-activity/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//g0621/resume/pull/1 'Merge final to master') in [g0621/resume](https://github.com/g0621/resume)  
+`[02/01 01:09]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [g0621/g0621](https://github.com/g0621/g0621)  
+`[01/31 07:15]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [g0621/resume](https://github.com/g0621/resume)  
 
 </details>
 <!--END_SECTION:activity-->
