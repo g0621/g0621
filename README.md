@@ -287,7 +287,7 @@ Python                   2 repos             ██░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Getting information off the Internet is like taking a drink from a fire hydrant.”— Mitchell Kapor  </i>
+• <i>“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
