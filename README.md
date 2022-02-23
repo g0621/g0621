@@ -34,19 +34,19 @@
 
 ### 🏃 Recent Github Activities
 <!--START_SECTION:activity-->
+`[02/23 01:15]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/g0621](https://github.com/g0621/g0621)  
+`[02/22 18:54]` <img alt="🍴" src="https://github.com/g0621/github-activity/raw/master/icons/fork.png" align="top" height="18"> Forked [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) to [g0621/coding-interview-university](https://github.com/g0621/coding-interview-university)  
 `[02/22 01:07]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [g0621/g0621](https://github.com/g0621/g0621)  
 `[02/02 16:36]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [g0621/resume](https://github.com/g0621/resume)  
 `[02/02 10:04]` <img alt="⭐" src="https://github.com/g0621/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [g0621/Advanced-Portfolio](https://github.com/g0621/Advanced-Portfolio)  
-`[02/02 05:08]` <img alt="⭐" src="https://github.com/g0621/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [g0621/resume](https://github.com/g0621/resume)  
-`[02/02 05:08]` <img alt="⭐" src="https://github.com/g0621/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [g0621/g0621](https://github.com/g0621/g0621)  
 
 <details><summary>Show More</summary>
 
+`[02/02 05:08]` <img alt="⭐" src="https://github.com/g0621/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [g0621/resume](https://github.com/g0621/resume)  
+`[02/02 05:08]` <img alt="⭐" src="https://github.com/g0621/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [g0621/g0621](https://github.com/g0621/g0621)  
 `[02/02 05:08]` <img alt="⭐" src="https://github.com/g0621/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [g0621/github-activity](https://github.com/g0621/github-activity)  
 `[02/02 04:59]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [g0621/resume](https://github.com/g0621/resume)  
 `[02/02 04:59]` <img alt="🎉" src="https://github.com/g0621/github-activity/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//g0621/resume/pull/1 'Merge final to master') in [g0621/resume](https://github.com/g0621/resume)  
-`[02/02 04:58]` <img alt="✅" src="https://github.com/g0621/github-activity/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//g0621/resume/pull/1 'Merge final to master') in [g0621/resume](https://github.com/g0621/resume)  
-`[02/01 01:09]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [g0621/g0621](https://github.com/g0621/g0621)  
 
 </details>
 <!--END_SECTION:activity-->
