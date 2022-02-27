@@ -283,7 +283,7 @@ Python                   2 repos             ██░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.</i>
+• <i>As computers run, they get hot. Computers have fans to keep them cool.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
