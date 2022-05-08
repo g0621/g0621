@@ -34,7 +34,7 @@
 
 ### 🏃 Recent Github Activities
 <!--START_SECTION:activity-->
-`[05/07 01:40]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [g0621/g0621](https://github.com/g0621/g0621)  
+`[05/08 01:49]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `30` commits in [g0621/g0621](https://github.com/g0621/g0621)  
 `[03/27 06:01]` <img alt="⭐" src="https://github.com/g0621/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [g0621/leetcode-patterns](https://github.com/g0621/leetcode-patterns)  
 `[03/27 01:31]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/g0621](https://github.com/g0621/g0621)  
 `[03/26 05:38]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [g0621/leetcode-patterns](https://github.com/g0621/leetcode-patterns)  
