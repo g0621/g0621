@@ -34,7 +34,7 @@
 
 ### 🏃 Recent Github Activities
 <!--START_SECTION:activity-->
-`[05/23 01:48]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `45` commits in [g0621/g0621](https://github.com/g0621/g0621)  
+`[05/24 01:53]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `46` commits in [g0621/g0621](https://github.com/g0621/g0621)  
 `[03/27 06:01]` <img alt="⭐" src="https://github.com/g0621/github-activity/raw/master/icons/star.png" align="top" height="18"> Starred [g0621/leetcode-patterns](https://github.com/g0621/leetcode-patterns)  
 `[03/27 01:31]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/g0621](https://github.com/g0621/g0621)  
 `[03/26 05:38]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [g0621/leetcode-patterns](https://github.com/g0621/leetcode-patterns)  
@@ -45,7 +45,7 @@
 `[03/26 04:44]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [g0621/leetcode-patterns](https://github.com/g0621/leetcode-patterns)  
 `[03/26 04:07]` <img alt="📂" src="https://github.com/g0621/github-activity/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/g0621/leetcode-patterns/tree/master) in [g0621/leetcode-patterns](https://github.com/g0621/leetcode-patterns)  
 `[03/26 04:07]` <img alt="➕" src="https://github.com/g0621/github-activity/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [g0621/leetcode-patterns](https://github.com/g0621/leetcode-patterns)  
-`[03/24 01:24]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [g0621/g0621](https://github.com/g0621/g0621)  
+`[03/24 01:24]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [g0621/g0621](https://github.com/g0621/g0621)  
 
 </details>
 <!--END_SECTION:activity-->
