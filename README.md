@@ -285,7 +285,7 @@ Python                   2 repos             ██░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Web Arx security says more than 20,000 websites are hacked each day and most from the US</i>
+• <i>According to statista, by 2023, over 50 billion devices will be connected on the internet.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
