@@ -36,7 +36,7 @@
 <!--START_SECTION:activity-->
 `[07/24 02:09]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `49` commits in [g0621/g0621](https://github.com/g0621/g0621)  
 `[06/05 14:01]` <img alt="➕" src="https://github.com/g0621/github-activity/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [g0621/learn](https://github.com/g0621/learn)  
-`[06/05 01:54]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `38` commits in [g0621/g0621](https://github.com/g0621/g0621)  
+`[06/05 01:54]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `37` commits in [g0621/g0621](https://github.com/g0621/g0621)  
 
 </details>
 <!--END_SECTION:activity-->
