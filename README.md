@@ -202,19 +202,19 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%203%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 445 Contributions in the Year 2022
+> 🏆 455 Contributions in the Year 2022
  > 
-> 📦 229.7 kB Used in GitHub's Storage 
+> 📦 229.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 1 Private Repository 
  > 
 **I'm a Night 🦉** 
 
@@ -228,13 +228,13 @@
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.51% 
+Monday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
 Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
 Wednesday    21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Thursday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
-Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
+Thursday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.54% 
+Friday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.95% 
 Saturday     126 commits    ████████████░░░░░░░░░░░░░   50.0% 
-Sunday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.73%
+Sunday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.92%
 
 ```
 
@@ -260,7 +260,7 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2022 02:04:35 UTC
+ Last Updated on 18/08/2022 02:14:00 UTC
 <!--END_SECTION:waka-->
 
 
