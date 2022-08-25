@@ -34,10 +34,10 @@
 
 ### 🏃 Recent Github Activities
 <!--START_SECTION:activity-->
-`[08/24 02:09]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [g0621/g0621](https://github.com/g0621/g0621)  
+`[08/25 02:13]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [g0621/g0621](https://github.com/g0621/g0621)  
 `[08/07 02:04]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `57` commits in [g0621/g0621](https://github.com/g0621/g0621)  
 `[06/05 14:01]` <img alt="➕" src="https://github.com/g0621/github-activity/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [g0621/learn](https://github.com/g0621/learn)  
-`[06/05 01:54]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [g0621/g0621](https://github.com/g0621/g0621)  
+`[06/05 01:54]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [g0621/g0621](https://github.com/g0621/g0621)  
 
 </details>
 <!--END_SECTION:activity-->
