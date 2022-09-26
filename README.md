@@ -274,7 +274,7 @@ Python                   2 repos             ██░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Low-level programming is good for the programmer’s soul.”— John Carmack   </i>
+• <i>Amazon was a hard cover book seller, but actually now sells more e-books than hard covers</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
