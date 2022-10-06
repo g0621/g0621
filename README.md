@@ -274,7 +274,7 @@ Python                   2 repos             ██░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>There is a website called “The Useless Web” . This is the last treatment for your boredom. If you ever feel bored please visit.</i>
+• <i>“Commenting your code is like cleaning your bathroom — you never want to do it, but it really does create a more pleasant experience for you and your guests.”— Ryan Campbell  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
