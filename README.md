@@ -274,7 +274,7 @@ Python                   2 repos             ██░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Perl: The only language that looks the same before and after RSA encryption.”— Keith Bostic   </i>
+• <i>“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
