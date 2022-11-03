@@ -34,8 +34,8 @@
 
 ### 🏃 Recent Github Activities
 <!--START_SECTION:activity-->
-`[11/02 02:12]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `79` commits in [g0621/g0621](https://github.com/g0621/g0621)  
-`[08/07 02:04]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [g0621/g0621](https://github.com/g0621/g0621)  
+`[11/03 01:58]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `80` commits in [g0621/g0621](https://github.com/g0621/g0621)  
+`[08/07 02:04]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [g0621/g0621](https://github.com/g0621/g0621)  
 
 </details>
 <!--END_SECTION:activity-->
