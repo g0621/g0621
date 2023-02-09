@@ -273,7 +273,7 @@ Python                   2 repos             ██░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>As computers run, they get hot. Computers have fans to keep them cool.</i>
+• <i>“Perl: The only language that looks the same before and after RSA encryption.”— Keith Bostic   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
