@@ -273,7 +273,7 @@ Python                   2 repos             ██░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.”— Matthew Austern   </i>
+• <i>“XML is not a language in the sense of a programming language any more than sketches on a napkin are a language.”— Charles Simonyi   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
