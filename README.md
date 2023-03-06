@@ -270,7 +270,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Computers are good at following instructions, but not at reading your mind.”— Donald Knuth   </i>
+• <i>The first Apple computer ever made by Steve Jobs and Steve Wozniak was made from old parts they collected for free from their staff!</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
