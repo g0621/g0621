@@ -272,7 +272,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>According to statista, by 2023, over 50 billion devices will be connected on the internet.</i>
+• <i>Facebook has over a billion users. If it was a country it would be the third largest in the world.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
