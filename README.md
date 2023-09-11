@@ -34,9 +34,9 @@
 
 ### 🏃 Recent Github Activities
 <!--START_SECTION:activity-->
-`[09/10 01:10]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [g0621/g0621](https://github.com/g0621/g0621)  
+`[09/11 01:08]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [g0621/g0621](https://github.com/g0621/g0621)  
 `[08/24 18:21]` <img alt="🗣" src="https://github.com/g0621/github-activity/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3563`](https://github.com//warpdotdev/Warp/issues/3563 'The git cpu usage is especially high when I open a large project directory') in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)  
-`[08/24 01:05]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `75` commits in [g0621/g0621](https://github.com/g0621/g0621)  
+`[08/24 01:05]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `74` commits in [g0621/g0621](https://github.com/g0621/g0621)  
 
 </details>
 <!--END_SECTION:activity-->
