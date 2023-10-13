@@ -272,7 +272,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“When debugging, novices insert corrective code; experts remove defective code.”— Richard Pattis   </i>
+• <i>“If you think your users are idiots, only idiots will use it.”— Linus Torvalds   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
