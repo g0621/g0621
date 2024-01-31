@@ -270,7 +270,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“I see little commercial potential for the Internet for at least ten years.”— Bill Gates, 1994   </i>
+• <i>Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
