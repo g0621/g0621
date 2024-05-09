@@ -270,7 +270,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Standards are always out of date.  That’s what makes them standards.”— Alan Bennett   </i>
+• <i>According to a survey, most of the apps in your android device leaks your data, so be aware.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
