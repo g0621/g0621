@@ -270,7 +270,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.”— Dave Parnas   </i>
+• <i>Computers have memory or RAM, which stores items on the computer when they’re not in use. The processor stores everything your computer needs to run.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
