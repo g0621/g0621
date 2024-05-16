@@ -270,7 +270,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Computers have memory or RAM, which stores items on the computer when they’re not in use. The processor stores everything your computer needs to run.</i>
+• <i>There are over 1.5 billion instant messaging id’s in the world over.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
