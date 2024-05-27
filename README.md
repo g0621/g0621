@@ -270,7 +270,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.”— Edsger Dijkstra   </i>
+• <i>The first-ever registered domain name was Symbolics.com for free.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
