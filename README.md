@@ -270,7 +270,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   </i>
+• <i>All the domain names such as Google, Log In or Sign Up were free until 1995, but now everyone has to pay for every new domain name.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
