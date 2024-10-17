@@ -270,7 +270,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The computer in your cell phone today is million times cheaper and a thousands times more powerful and about a hundred thousands times smaller than the one computer at MIT in 1965.</i>
+• <i>The first webcam was used at Cambridge University. Its purpose was to monitor a coffee maker so they didn’t waste trips to an empty pot.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
