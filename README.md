@@ -270,7 +270,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The first bug in a computer was a dead moth found shorting a relay in the Harvard Mark II computer in 1947</i>
+• <i>A group of 12 engineers designed IBM PC and they were called as “The Dirty Dozen”.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
