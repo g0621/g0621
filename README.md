@@ -268,7 +268,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“The difference between theory and practice is that in theory, there is no difference between theory and practice.”— Richard Moore   </i>
+• <i>China has the highest number of internet users in the whole world with over 746 million active users.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
