@@ -270,7 +270,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Amazon was a hard cover book seller, but actually now sells more e-books than hard covers</i>
+• <i>There are around  3.58 billion internet users worldwide as of 2017 according to statista.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
