@@ -200,11 +200,13 @@
 <hr>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2016%20mins-blue)
+
 **🐱 My GitHub Data** 
 
-> 📦 233.1 kB Used in GitHub's Storage 
+> 📦 233.2 kB Used in GitHub's Storage 
  > 
-> 🏆 535 Contributions in the Year 2025
+> 🏆 537 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -212,6 +214,34 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2594 commits        ██████████████████░░░░░░░   71.26 % 
+🌆 Daytime                88 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+🌃 Evening                881 commits         ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+🌙 Night                  77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   394 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Tuesday                  386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Wednesday                410 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Thursday                 452 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Friday                   377 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Saturday                 1209 commits        ████████░░░░░░░░░░░░░░░░░   33.21 % 
+Sunday                   412 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -225,7 +255,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 01:52:19 UTC
+ Last Updated on 29/09/2025 01:46:52 UTC
 <!--END_SECTION:waka-->
 
 
