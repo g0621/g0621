@@ -270,7 +270,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.</i>
+• <i>“From a programmer’s point of view, the user is a peripheral that types when you issue a read request.”— P. Williams   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
