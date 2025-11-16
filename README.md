@@ -240,7 +240,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Computer Science is no more about computers than astronomy is about telescopes.”— Edsger W. Dijkstra  </i>
+• <i>“Simplicity, carried to the extreme, becomes elegance.”— Jon Franklin   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
