@@ -270,7 +270,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   </i>
+• <i>“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
