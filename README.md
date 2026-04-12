@@ -34,7 +34,7 @@
 
 ### 🏃 Recent Github Activities
 <!--START_SECTION:activity-->
-`[04/11 02:39]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [g0621/g0621](https://github.com/g0621/g0621)  
+`[04/12 02:59]` <img alt="📝" src="https://github.com/g0621/github-activity/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [g0621/g0621](https://github.com/g0621/g0621)  
 
 </details>
 <!--END_SECTION:activity-->
