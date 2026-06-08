@@ -270,7 +270,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.</i>
+• <i>Gaming computers heat a room just as efficiently as a space heater does.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
