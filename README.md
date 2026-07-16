@@ -270,7 +270,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <h2> A Famous Fact/Quote <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="32px"/> </h2>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“The computer was born to solve problems that did not exist before.”— Bill Gates    </i>
+• <i>Approximately 70% of virus writers are said to work under contract for organized crime syndicates.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
